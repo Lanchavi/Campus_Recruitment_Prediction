@@ -9,3 +9,9 @@ The data set contains the placement data of the students. It includes secondary 
 **The dataset contains the below attributes:**
 
 Gender, SSC Percentage, SSC Board, HSC Percentage, HSC Board, Degree Percentage, Degree, Specialization, MBA Percentage, Salary, Status.
+
+## Questions
+1. Which factor influenced a candidate's placement?
+2. Does percentage matter for one to get placed?
+3. Which degree specialization is most demanded by corporations?
+4. Play with the data, conducting all statistical tests.
